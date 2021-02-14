@@ -26,9 +26,8 @@ h2 {
 }
 
 #dob {
-    background: rgba(0,0,0);
-    color: white;
-    border: none
+    border: none;
+    outline: none;
 }
 
 #output {
@@ -52,6 +51,11 @@ h2 {
     #output {
         margin-top: 4rem;
         padding: 1.5rem;
+    }
+
+    #dob {
+        background: rgba(0,0,0);
+        color: white;
     }
 }
 
