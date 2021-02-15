@@ -28,6 +28,8 @@ h2 {
 #dob {
     border: none;
     outline: none;
+    background-color: transparent;
+    color: white;
 }
 
 #output {
